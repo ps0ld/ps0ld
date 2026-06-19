@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ps0ld&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=building%20something%20worth%20remembering&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ps0ld&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20coffee%20into%20Code%20%E2%80%94%20THE%20PS&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
@@ -29,10 +29,11 @@
 
 ```java
 class PS {
-    String role     = "Software Engineer (in progress)";
-    String status   = "leveling up every single day";
-    String target   = "Big Tech 🎯";
-    boolean quit    = false; // never.
+    String identity  = "THE PS — not a name, a statement.";
+    String status    = "turning caffeine into code since day 1";
+    String mission   = "Big Tech or bust 🎯";
+    String weakness  = null; // not found
+    boolean quit     = false; // undefined behavior
 }
 ```
 
@@ -57,12 +58,17 @@ class PS {
 
 </div>
 
-```
-🔨  writing code that actually works
-📚  mastering DSA — one problem at a time  
-🧠  thinking in algorithms
-🚀  building projects from scratch
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🌑 | **in the dark** — building what others can't see yet |
+| ⚔️ | **at war** — with every problem that dares to stop me |
+| 🧠 | **obsessed** — algorithms, logic, clean code |
+| 🔥 | **on a mission** — the kind that doesn't have a plan B |
+| ☕ | **fueled** — coffee in hand, compiler running |
+
+</div>
 
 ---
 
