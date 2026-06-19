@@ -28,6 +28,12 @@
 </div>
 
 ```java
+Debugging life one line at a time
+
+CSE Student
+
+Building my future through code
+
 class PS {
     String identity  = "THE PS — not a name, a statement.";
     String status    = "turning caffeine into code since day 1";
